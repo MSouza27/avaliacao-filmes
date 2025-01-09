@@ -20,5 +20,5 @@ API REST desenvolvida em Java com Spring Boot para gerenciar informações de fi
   - Spring Data JPA
   - Hibernate
   - Bean Validation
-- **Banco de Dados MySql
+- **Banco de Dados MySql**
 - **Maven** para gerenciamento de dependências
